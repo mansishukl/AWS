@@ -79,3 +79,7 @@ Age Range: 25 - 35
 
 7. Clean Up
 After running your project, make sure to delete any unnecessary resources like S3 buckets or uploaded images to avoid incurring charges.
+
+
+![Screenshot 2024-08-26 145032](https://github.com/user-attachments/assets/5dcdb20e-6900-496a-8900-413cae31d466)
+

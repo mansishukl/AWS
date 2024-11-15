@@ -90,5 +90,25 @@ After running your project, make sure to delete any unnecessary resources like S
 
 ![Screenshot 2024-08-26 144715](https://github.com/user-attachments/assets/bc0997ec-3b6c-47ee-9a14-42fef45d8508)
 
+![Screenshot 2024-08-26 144627](https://github.com/user-attachments/assets/fa5541e2-b5c1-404a-b602-118914f1c5a4)
+
+![Screenshot 2024-08-26 144507](https://github.com/user-attachments/assets/206fd577-fc66-4f59-9590-33be665b7239)
+
+![Screenshot 2024-08-26 144348](https://github.com/user-attachments/assets/074f0c75-80e8-487e-a8e2-8a5950e58513)
+
+![Screenshot 2024-08-26 145946](https://github.com/user-attachments/assets/5bcbe478-b722-4997-b64d-de060985bd0f)
+
+![Screenshot 2024-08-26 151327](https://github.com/user-attachments/assets/0ec6a901-05bd-4ef9-a8f0-d718a17243eb)
+
+![Screenshot 2024-08-26 151327](https://github.com/user-attachments/assets/d036dd36-9e1a-42b2-a40b-7518f903dc98)
+
+![Screenshot (122)](https://github.com/user-attachments/assets/bee9fd0e-9768-4873-b80c-fe95077ed56a)
+
+![Screenshot (124)](https://github.com/user-attachments/assets/adeac769-adb1-49d7-bccf-2732d654ba0f)
+
+![Screenshot (125)](https://github.com/user-attachments/assets/4de8ef1a-549e-4c30-8697-c6b9e2f27968)
+
+
+
 
 
